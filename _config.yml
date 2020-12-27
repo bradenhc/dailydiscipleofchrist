@@ -180,7 +180,7 @@ date_format: "%B %-d, %Y"
 collections:
   redirects:
     output: true
-    permalink: /:path/
+    permalink: /:path
 
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
